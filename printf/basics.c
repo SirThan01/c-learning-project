@@ -3,14 +3,16 @@
 
 int main() {
   printf("Hello World!"); //printf
-  //Int main is the entry point to a C
-  //program, it's required unless you're 
-  //writing a kernel.
-  //; required
-  //int is the type of data being returned
-  //it must be specified in functions if the 
-  //function will return something, for 
-  //example a + b. 
+  /*
+  Int main is the entry point to a C
+  program, it's required unless you're 
+  writing a kernel.
+  ; required
+  int is the type of data being returned
+  it must be specified in functions if the 
+  function will return something, for 
+  example a + b. 
+ */
   return 0;
   //It's like 0 errors and that's cool.
 } 
