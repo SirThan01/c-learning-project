@@ -2,7 +2,6 @@
 /*
 Set, clear, and test individual bits.
 Bits are numbered starting with 0 (least significant).
-
 Set bit n: x |= (1 << n)
 Clear bit n: x &= ~(1 << n)
 Test bit n: (x & (1 << n)) != 0
