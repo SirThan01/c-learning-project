@@ -1,4 +1,4 @@
-//length_copy.c
+//length.c
 /*
 Strings in C are arrays of characters, the last character being a '\0' (the null terminator).
 Without the '\0', functions won't know where the string ends.
