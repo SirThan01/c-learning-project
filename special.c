@@ -73,7 +73,7 @@ for(int i = 0; i < n; i++) {
 a[i] = a[i] + b[i];
  }
 }
-// *restrict - the pointer is unique, no intersections
+// *restrict - the pointer is unique no intersections
 // programmer's promise, otherwise undefined behavior
 // 9. ?: ternary operator
 void ternary_example(int x) {
